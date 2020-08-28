@@ -30,6 +30,7 @@ $: bash ./script_name <ARGUMENTS>
 |`security-group-cleanup.py`| Python 2.7 | Script to clean up AWS VPC Security Groups
 |`seekbin.sh`| Shell Script | Seeks for modified binaries in the Operating System.
 |`swap.sh` | Shell Script | Analyzes swap utilization.
+|`tf-pre-commit.sh` | Shell Script | Git pre-commit hook (fmt and validate).
 |`tcpping.py` | Python 2.7 | Executes a TCP ping to determine if host is alive.
 |`udpping.py`| Python 2.7 | Executes an UDP ping to determine if host is alive.
 |`upgrade_repo.sh` | Shell Script | Upgrade an RPM based repo.
