@@ -1,5 +1,6 @@
 # Shell scripts
 ![ShellCheck](https://github.com/fmdlc/shell-scripts/workflows/ShellCheck/badge.svg)
+
 Personal collection of Shell scripts
 
 ## Installation
