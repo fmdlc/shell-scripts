@@ -14,3 +14,7 @@ jobs:
         with:
           severity: "info"
           check_together: true
+          ignore: "./LINUXexplo.sh"
+        env:
+          SHELLCHECK_OPTS: -e SC2086 -e SC1061 -e SC1072 -e SC2059
+        
